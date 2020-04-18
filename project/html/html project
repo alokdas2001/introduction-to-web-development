@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+<head> <title> MY FIRST WEB PAGE </title>   </head>
+
+<body>
+
+
+
+<img src="wel.jpg" title="welcome" width="30%" height="200">
+<br>
+<br>
+<video title="welcome" width="20%" height="30%" controls autoplay loop draggable="true">
+
+<source src="welcome.mp4" />
+</video>
+<br>
+<br>
+  <ol>
+    <li> write correct informaton </li>
+    <li>After filling the form click submit button</li>
+  </ol>
+  <ul>
+    <li> <a href="https://www.youtube.com/watch?v=cpP-fCo8Dn4">for more informaton click here </a>
+  </ul>
+<a href="#SUBMIT" > GIVE US YOUR FEEDBACK  </a>
+
+        <fieldset>
+        <legend > REGISTRATION FORM: </legend>
+
+<br>
+<br>
+<br>
+<b>NAME:</b><input type="text"> <BR>
+<b>reg no.:</b><input type="number" > <br>
+<br>
+<br>
+<br>
+<i>GENDER:</i> <br>
+
+<input type="radio" name="yes" value="">MALE
+<br>
+<input type="radio" name="yes" value="">FEMALE
+<br>
+<input type="radio" name="yes" value="">OTHERS<br>
+<br>
+<br>
+<br>
+HOBBIES:<br>
+CRICKET<input type="checkbox" name="" value=""><br>
+FOOTBALL<input type="checkbox" name="" value=""><br>
+BASKETBALL<input type="checkbox" name="" value=""><br>
+<br>
+STATE:<br>
+
+
+  <select>
+
+        <option value="ODISHA">ODISHA </option>
+        <option value="WB">WB </option>
+        <option value="TN">TN <option>
+
+  <select>
+<br>
+<br>
+<br>
+DOB:
+
+<input type="date" name="day">
+<br>
+<br>
+<br>
+WRITE SOMETHING ABOUT YOU:
+<br>
+
+
+<textarea rows="10" cols="25"> </textarea>
+<br>
+<input type="submit" value="SUBMIT">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a name="SUBMIT"> GIVE US YOUR FEEDBACK</A>
+  <br>
+<textarea rows="10" cols="50"> </textarea>
+      <fieldset>
+
+
+
+</body>
+
+</html>
