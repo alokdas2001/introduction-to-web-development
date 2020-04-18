@@ -1,0 +1,72 @@
+body{
+	background-color: red;
+	margin:0;
+	font-familt : georgia;
+	font-size:14px;
+}
+
+#header{
+	background-color:yellow;
+	margin:10px;
+	height:90px;
+	border-radius: 5 px;
+}
+
+#navbar{
+	background-color:yellow;
+	margin:10px;
+	height:35px;
+	border-radius: 5 px;
+}
+
+h1{
+	
+	color:blue;
+}
+
+
+
+.main{
+	
+	background-color:green;
+	margin-left:10px;
+	margin-right:320px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius:5px;
+	padding:20px;
+	font-size:110%;
+}
+
+.sideright{
+	
+	background-color:pink;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:10px;
+	border-radius:5px;
+	padding:20px;
+	padding-bottom:0px;
+	font-size:105%;
+	float : right;
+	width:260px;
+	clear:right;
+	
+}
+
+.imagesidebar{
+	
+	
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:10px;
+	border-radius:5px;
+	float : right;
+	width:300px;
+	clear:right;
+	
+}
+
+
