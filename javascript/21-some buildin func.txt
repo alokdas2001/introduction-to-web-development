@@ -1,0 +1,54 @@
+
+
+===============STR OBJECT STARTS ============================
+
+a = "hello world"
+
+a.length
+a.toUpperCase()
+
+a.charAt(2)  // print (l)
+
+a.replace('hello' , 'hi')  // print (hi world)
+
+a.bold
+
+===============STR OBJECT ENDS============================
+
+===============MATH OBJECT STARTS ============================
+
+b = 4.3
+c = 4.7
+
+
+math.round(b) // print 4 as it will go to nearest int
+
+math.celi(b)  // print 5 as it will always take longer one
+
+math.floor(c)  // print 4 as it will always take shorter one
+
+
+math.sqrt()  
+
+
+===============MATH OBJECT ENDS============================
+
+
+
+===============DATE OBJECT STARTS============================
+
+
+var todaydate= new Date() // Date()  to find todays date with capital D
+                     // obj which converts into object
+
+
+var date_to_string = todaydate.toDateString() // convert the date to shortform
+
+var year = todaydate.getYear() ; // get year
+
+
+var year2 = todaydate.setYear(2020) ;  // set year
+
+
+===============DATE OBJECT ENDS============================
+

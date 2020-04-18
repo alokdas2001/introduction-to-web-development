@@ -1,0 +1,38 @@
+
+
+===============STR OBJECT STARTS ============================
+
+a = "hello world"
+
+a.length
+a.toUpperCase()
+
+a.charAt(2)  // print (l)
+
+a.replace('hello' , 'hi')  // print (hi world)
+
+a.bold
+
+===============STR OBJECT ENDS============================
+
+===============MATH OBJECT STARTS ============================
+
+b = 4.3
+c = 4.7
+
+
+math.round(b) // print 4 as it will go to nearest int
+
+math.celi(b)  // print 5 as it will always take longer one
+
+math.floor(c)  // print 4 as it will always take shorter one
+
+
+math.sqrt()  
+
+
+===============MATH OBJECT ENDS============================
+
+
+
+===============DATE OBJECT ENDS============================

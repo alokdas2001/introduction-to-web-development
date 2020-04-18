@@ -1,0 +1,19 @@
+=====================================Elements start=================
+
+getElementById               // by id 
+
+getElementByTagName		// ex = p , a , h1.....
+
+getElementByClassName  		// by class
+
+=====================================Elements ENds =================
+
+====================================Intro To Events===============
+
+innerHTMl // replace inner content
+
+onclick // change when clicked on some thing
+
+onmouseover  // when you bring mouse to certain area
+
+onmouseout   // when mouse is removed
