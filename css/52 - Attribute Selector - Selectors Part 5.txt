@@ -1,0 +1,42 @@
+Selects elements based off a specified attribute in this case the lang attribute.
+
+p[lang] { 
+    background-color: orange;
+}
+
+
+=================================================================================
+
+Selects elements based off a attribute with a specific value. In this case
+the lang attribute with a value of "fr".
+
+p[lang="fr"] { 
+    background-color: pink;
+}
+
+=================================================================================
+
+Selects elements whose attribute ENDS with a particular value.
+
+
+p[lang$="o"] { 
+    background-color: yellow;
+}
+
+=================================================================================
+
+Select elements based off an attribute that BEGINS with a specific value. 
+
+
+p[lang^="fr"] { 
+    background-color: grey;
+}
+
+=================================================================================
+
+Selects elements with attribute that contain a particular value 
+ANYWHERE in the attribute.
+
+p[lang*="us"] { 
+    background-color: red;
+}

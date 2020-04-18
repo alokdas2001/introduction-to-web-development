@@ -1,0 +1,19 @@
+#text1 {
+
+  text-align: center;
+  font: bold 60px Helvetica;
+  text-shadow: 3px 3px 5px orange,
+               6px 6px 10px blue;
+}
+
+/* horizontal vertical blur-effect color */
+
+#text2{
+
+  text-align: center;
+  font: bold 60px Helvetica;
+  text-shadow: 6px 6px 10px rgba(0, 0, 255,0.3);  
+}
+
+/* horizontal vertical blur-effect rgba color */
+

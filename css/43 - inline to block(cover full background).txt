@@ -1,0 +1,10 @@
+display:block;
+
+
+converts background-color to full like it does convert the background-color 
+to full page  
+
+
+display : inline;
+
+side by side

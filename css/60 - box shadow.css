@@ -1,0 +1,23 @@
+#box1 {
+	
+	
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+    
+	box-shadow: 15px 15px 5px orange;
+
+}
+
+/* horizontal vertical blur color */
+
+
+#box2{
+	
+	width: 600px;
+    height: 200px;
+    background-color: blue;
+	box-shadow:inset 0 0 15px black;
+}
+
+/* inset is used to create an inner shadow of the box*/

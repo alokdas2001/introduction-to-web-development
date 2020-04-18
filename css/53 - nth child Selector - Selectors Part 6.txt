@@ -1,0 +1,15 @@
+The :nth-child(n) starts out with a colon which again identifies it as a pseudo selector.
+Now we use the nth child for pattern selections ... so maybe you want
+select every even or odd element.
+
+And so can use the keywords of odd or even.
+
+You can use just a number without an 'n' and that will select one element.
+
+If you use 'n' that will repeate the pattern.  So if you had 2n that would select
+every second element.
+
+You can also use this formula: (an + b). 
+
+'an' is the repeatable value.  B is where to start it at.
+So if you had (3n+4) this would match child elements 4, 7, 10, etc.

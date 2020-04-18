@@ -1,0 +1,16 @@
+p{
+background-color:red;
+color:white;
+}
+
+div{
+
+color:red;
+position:absolute;
+top:75px;
+right:150px;
+width:250px;
+height:250px;
+}
+
+<!-- left/bottom >

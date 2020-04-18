@@ -1,0 +1,57 @@
+
+
+body {
+
+color: green;
+background-color: pink;
+background-image:url(21-download.jfif);
+}
+
+.imagec{
+
+display: block;
+margin-left:auto;
+margin-right:auto;
+padding:3px;
+background-color:silver;
+border-color:black;
+border-width:2px;
+border-style:solid;
+}
+
+p.line{
+line-height:25px;
+color:red;
+background-color:#e5e4d7;
+padding:20px;
+border-color:black;
+border-width:2px;
+border-style:solid;
+margin:20px;
+background-image : url(21 - img.gif);
+}
+
+<!-- background-image is used to put img in background of a para-->
+
+
+h1, h2 {
+
+text-decoration:line-through;
+
+}
+
+.blue {
+
+color: blue;
+font-size: 25px;
+
+
+}
+
+p.purple {
+
+color: purple;
+font-size: 25px;
+
+
+}
